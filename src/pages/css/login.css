@@ -1,0 +1,36 @@
+.content-login {
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.content-login
+.form-login {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 10px 0;
+}
+.content-login
+.form-login
+input {
+    border-radius: 5px;
+    width: 300px;
+    height: 46px;
+    font-size: 14px;
+    border: 1px solid#ccc;
+    padding: 10px; 
+}
+.content-login
+.form-login
+button {
+    margin: 10px 0 0 0;
+    color: #fff;
+    background: red;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 300px;
+    height: 46px;
+    font-size: 16px;
+}
